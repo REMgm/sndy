@@ -1,0 +1,9 @@
+{
+  "name": "sundai-motivation",
+  "version": 2,
+  "public": true,
+  "github": {
+    "enabled": true,
+    "silent": true
+  }
+}
